@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="af388f98-ba4c-4136-9f96-b47a4b1b8d44" name="Changes" comment="&quot;skelleton V0.1&quot;">
+    <list default="true" id="af388f98-ba4c-4136-9f96-b47a4b1b8d44" name="Changes" comment="&quot;v01&quot;">
       <change afterPath="$PROJECT_DIR$/src/main/java/restApi/Users.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/test/java/apiTests/Users.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/test/resources/data/users.json" afterDir="false" />
@@ -32,7 +32,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="skelleton" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -105,7 +105,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673010567002</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="&quot;v01&quot;">
+      <created>1673297868843</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1673297868843</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -113,7 +120,19 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master/skelleton" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
         <entry key="e648a63d-946c-42e1-a078-c4a53f16cdf0">
@@ -134,10 +153,26 @@
         <entry key="e648a63d-946c-42e1-a078-c4a53f16cdf0" value="TOOL_WINDOW" />
       </map>
     </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="master/skelleton" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="skelleton V0.1" />
     <MESSAGE value="&quot;skelleton V0.1&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="&quot;skelleton V0.1&quot;" />
+    <MESSAGE value="&quot;v01&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;v01&quot;" />
   </component>
 </project>
